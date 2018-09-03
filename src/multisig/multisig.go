@@ -1,4 +1,4 @@
-package multiSig
+package multisig
 
 import (
 	"account"
